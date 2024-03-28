@@ -32,7 +32,7 @@ of new GEO relay satellites, but this article discusses the idea of
 utilizing the hundreds of existing FSS GEO satellites operating in
 C, Ku, and Ka band to leverage an existing resource for satellite
 communications with LEO satellites.'
-date: 2019
+date: 2019-03-01
 venue: 'New Space'
 paperurl: 'https://www.liebertpub.com/doi/pdf/10.1089/space.2018.0035'
 ---
