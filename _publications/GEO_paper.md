@@ -3,7 +3,7 @@ title: "Utilizing Existing Commercial Geostationary Earth
 Orbit Fixed Satellite Services for Low Earth Orbit
 Satellite Communication Relays with Earth"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/GEO-paper
 excerpt: 'There are only a few ways that a low Earth orbit (LEO) satellite
 can communicate with Earth without a ground station network.
 A LEO satellite can link with other LEO satellites establishing a
