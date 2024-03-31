@@ -10,8 +10,7 @@ along with formulae for the smooth signals $\{ \overline{\Upsilon}_t, \mathcal{W
 --
 * A proof that the estimation error $$\| \Theta_t - \theta^* \|$$ is of order $$O(\alpha)$$, but can be reduced to $$O(\alpha^2)$$  using a second order linear filter.   
 
-* In application to extremum seeking control  
-	[an approach to gradient free optimization], 
+* In application to extremum seeking control (an approach to gradient free optimization), 
 it is found that the results do not apply because the standard algorithms are not Lipschitz continuous.   A new approach is presented to ensure that the required Lipschitz bounds hold, and from this we obtain stability, transient bounds,   asymptotic bias of order  $$O(\alpha^2)$$,
  and asymptotic variance of order  $$O(\alpha^4)$$.    
 
