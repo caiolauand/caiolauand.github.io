@@ -8,7 +8,6 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/9929369'
 ---
 
 This paper concerns bias and asymptotic statistics for stochastic approximation (SA) driven by Markovian noise. This extended abstract is organized into three parts: 
-======
 1. Background
 2. Asymptotic statistics with Markovian noise
 3. Quasi stochastic approximation.
