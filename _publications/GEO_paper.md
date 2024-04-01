@@ -4,7 +4,12 @@ Orbit Fixed Satellite Services for Low Earth Orbit
 Satellite Communication Relays with Earth"
 collection: publications
 permalink: /publication/GEO-paper
-excerpt: 'There are only a few ways that a low Earth orbit (LEO) satellite
+date: 2019-03-01
+venue: 'New Space'
+paperurl: 'https://www.liebertpub.com/doi/pdf/10.1089/space.2018.0035'
+---
+
+There are only a few ways that a low Earth orbit (LEO) satellite
 can communicate with Earth without a ground station network.
 A LEO satellite can link with other LEO satellites establishing a
 mesh network that connects with Earth, or LEO satellites can
@@ -31,10 +36,4 @@ been proposed or are in development, requiring the deployment
 of new GEO relay satellites, but this article discusses the idea of
 utilizing the hundreds of existing FSS GEO satellites operating in
 C, Ku, and Ka band to leverage an existing resource for satellite
-communications with LEO satellites.'
-date: 2019-03-01
-venue: 'New Space'
-paperurl: 'https://www.liebertpub.com/doi/pdf/10.1089/space.2018.0035'
----
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+communications with LEO satellites.
