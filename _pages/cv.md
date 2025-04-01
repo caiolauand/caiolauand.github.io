@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](https://github.com/user-attachments/files/19556365/CV_CaioKalilLauand.pdf)
+You can download my CV [here.](https://github.com/user-attachments/files/19556430/CV_Caio_website.pdf)
